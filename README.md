@@ -118,7 +118,7 @@ This algorithm describes how to simulate a simple walking cycle for a biped robo
 ##  Project Simulation (Tinkercad)
 
 You can try the project online here:  
-[Open Circuit in Tinkercad](https://www.tinkercad.com/things/9MHjAkKUmXJ/editel?returnTo=%2Fdashboard)
+[Open Circuit in Tinkercad](https://www.tinkercad.com/things/9MHjAkKUmXJ-fantastic-maimu)
 
 ---
 
