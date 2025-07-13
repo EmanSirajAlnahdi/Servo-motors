@@ -20,7 +20,8 @@ Servo 3	Right Hip	6
 Servo 4	Right Knee	9
 ## Power:
 Servos powered from breadboard rails connected to Arduino 5V and GND.
-<img width="1280" height="827" alt="image" src="https://github.com/user-attachments/assets/50c259fb-38ab-40df-a16b-9b9d9808b180" />
+
+<img width="2147" height="1353" alt="لقطة شاشة 2025-07-13 181810" src="https://github.com/user-attachments/assets/6bd41dbc-8bba-4a8a-9a37-6dbcfd55b665" />
 
 ---
 
