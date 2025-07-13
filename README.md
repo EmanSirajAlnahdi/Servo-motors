@@ -25,6 +25,8 @@ Servos powered from breadboard rails connected to Arduino 5V and GND.
 ---
 
 ## Arduino Code
+```cpp
+
 #include <Servo.h>
 
 Servo servo1, servo2, servo3, servo4;
@@ -63,7 +65,7 @@ void loop() {
   servo4.write(90);
   while (true); // Stop the loop here
 }
-
+```
 ---
 
 ## Walking Motion Algorithm
